@@ -1,0 +1,64 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-dollar {
+  width: 0.5693359375em;
+}
+
+.icon-cog {
+  width: 0.857421875em;
+}
+
+.icon-diamond {
+  width: 1.142578125em;
+}
+
+.icon-map-marker {
+  width: 0.5712890625em;
+}
+
+.icon-paper-plane {
+  width: 1.0009765625em;
+}
+
+.icon-linkedin {
+  width: 0.857421875em;
+}
+
+.icon-twitter {
+  width: 0.9287109375em;
+}
+
+.icon-pinterest-p {
+  width: 0.7138671875em;
+}
+
+.icon-instagram {
+  width: 0.857421875em;
+}
+
+.icon-facebook-official {
+  width: 0.857421875em;
+}
+
+.icon-phone {
+  width: 0.7861328125em;
+}
+
+.icon-snapchat-square {
+  width: 0.857421875em;
+}
